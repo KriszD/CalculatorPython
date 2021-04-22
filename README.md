@@ -1,1 +1,12 @@
-This is a calculator I have made in Python.  The reason I made it was after I made a calculator in C, I started to learn python, and I realized not only how much easier Python is, and how fast it is to learn it, but also how much more uses and abilities I can use it for.  I remade the entire code without even looking at the C version, in order to practice Python, because I wanted to re-learn most of the basics, and I was also learning it in class, and understanding it more.  When I began to make this in January 2021, I was better at C than Python, and didn't know all of the syntax and functions I could use and so it might not be the most neat or the best of looking.  I tried my best in order to make it very easy to understand and use, and I think that part was a success.  I have also been updating it and adding more features, as I learn more about Python I can include better features and better organization.  I have been updating it since creation and will continuite to do so.
+**Calculator In Python**
+This is a calculator in python, it can calculate with multiple operations, and formulas.
+
+**Prerequisites**
+There are no prerequisites to use this code, you just need any python compiler.
+
+**Installing**
+Download the python file, and run it in your python compiler.
+
+**Authors**
+Krisztian Drimba
+
