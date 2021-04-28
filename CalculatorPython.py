@@ -105,14 +105,7 @@ while i >= 1:
                 radius = input("Input the radius")
                 area = 3.14*(float(radius) ** 2)
                 print("The area of a circle is", area)
-
-        # If the player chooses the pythagorean theorem, it will get the values of a and b to find c
-        elif choice == "average":
-            avg_1 = input("Input the first number")
-            avg_2 = input("Input the second number")
-            avg = (float(avg_1) + float(avg_2)) / 2
-            print("The average of", avg_1, "and", avg_2, "is", avg)
-
+               
         # If they input something that is not a choice then it says the input is invalid
         else:
             print("Invalid Input")
